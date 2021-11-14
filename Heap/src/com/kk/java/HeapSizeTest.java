@@ -12,6 +12,9 @@ package com.kk.java;
  * 3.手动设置
  *      -Xms600m -Xmx600m
  *      开发中建议将初始堆内存和最大堆内存设置成相同的值
+ *
+ * 4.查看设置的参数
+ *      -XX:+PrintGCDetails
  */
 
 public class HeapSizeTest {

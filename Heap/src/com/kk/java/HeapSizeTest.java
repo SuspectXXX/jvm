@@ -15,7 +15,7 @@ package com.kk.java;
  *
  * 4.查看设置的参数
  *      -XX:+PrintGCDetails
- */
+*/
 
 public class HeapSizeTest {
     public static void main(String[] args) {
